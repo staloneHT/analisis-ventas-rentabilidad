@@ -95,21 +95,3 @@ Ventas netas, utilidad bruta, margen global, pedidos completados únicos, ticket
 ## Recomendaciones y límites
 
 Las recomendaciones cuantificadas están en el reporte ejecutivo. Antes de aplicar cambios comerciales, validar con datos reales, añadir costos de adquisición y logística, y probar promociones con grupos de control. Los importes son nominales y sintéticos.
-
-## Cómo presentar este proyecto en mi CV
-
-**Descripción breve:** Proyecto independiente de análisis de ventas y rentabilidad de retail chileno con datos sintéticos reproducibles, desde limpieza hasta recomendaciones comerciales.
-
-**Tres bullets para CV**
-
-- Construí un pipeline reproducible en Python/Pandas/NumPy para generar, depurar y validar transacciones sintéticas, con auditoría de calidad y pruebas pytest.
-- Definí KPIs de ventas, utilidad bruta, margen y comportamiento de pedidos sin duplicar pedidos multilínea ni reconocer ingresos cancelados o devueltos.
-- Realicé análisis exploratorio y visualizaciones Matplotlib de tendencias, productos, clientes, regiones, canales y descuentos; traduje hallazgos cuantificados en acciones medibles.
-
-**Descripción técnica para GitHub:** Repositorio modular con generador determinista, limpieza idempotente, cálculos financieros y agregaciones reutilizables, notebook narrativo, reporte ejecutivo, diez gráficos PNG y tests. Python, Pandas, NumPy, Matplotlib y Jupyter.
-
-**Explicación de 30 segundos para entrevista:** “Desarrollé un caso de retail chileno con datos sintéticos para demostrar un flujo completo de análisis. Generé pedidos multilínea y problemas de calidad, construí un pipeline de limpieza auditable, calculé ventas y utilidad bruta solo sobre pedidos completados y comparé productos, regiones, clientes, descuentos y canales. El resultado es un notebook reproducible, diez gráficos y recomendaciones medibles. Dejé explícitas las limitaciones: son datos simulados y no se modelan todos los gastos.”
-
-## Publicación
-
-Publicado en GitHub como repositorio público. La rama principal es `main`.
