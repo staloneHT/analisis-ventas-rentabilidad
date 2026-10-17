@@ -1,0 +1,31 @@
+{
+  "filas_iniciales": 16193,
+  "filas_finales": 16146,
+  "duplicados_eliminados": 15,
+  "nulos_antes": {
+    "producto": 6,
+    "categoria": 6,
+    "region": 5
+  },
+  "campos_catalogo_recuperados": {
+    "producto": 6,
+    "categoria": 6
+  },
+  "categorias_normalizadas": 36,
+  "registros_descartados": 32,
+  "motivos_descarte": {
+    "campos_obligatorios_o_fecha": 10,
+    "cantidad_no_positiva": 5,
+    "precio_no_positivo": 5,
+    "costo_negativo": 5,
+    "descuento_fuera_0_1": 5,
+    "fecha_fuera_periodo": 5,
+    "cantidad_no_entera": 0,
+    "id_linea_repetido": 0,
+    "pedido_inconsistente_fecha_venta": 0,
+    "pedido_inconsistente_id_cliente": 0,
+    "pedido_inconsistente_region": 0,
+    "pedido_inconsistente_canal_venta": 2,
+    "pedido_inconsistente_estado_pedido": 0
+  }
+}

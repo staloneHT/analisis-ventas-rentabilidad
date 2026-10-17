@@ -1,0 +1,38 @@
+[
+  {
+    "hallazgo": "La categoría Hogar aporta $140.646.635 de utilidad bruta.",
+    "evidencia": "Margen agregado: 37,8%; ventas: $372.306.435.",
+    "accion": "Priorizar surtido y disponibilidad de esta categoría.",
+    "seguimiento": "Utilidad bruta y margen por categoría"
+  },
+  {
+    "hallazgo": "Teclado combina ventas altas con margen de 6,2%.",
+    "evidencia": "Ventas: $281.974.260; utilidad: $17.535.260.",
+    "accion": "Revisar costo de compra y límites de descuento de este producto.",
+    "seguimiento": "Margen y utilidad por producto"
+  },
+  {
+    "hallazgo": "Metropolitana lidera las ventas regionales.",
+    "evidencia": "Ventas: $859.014.535; utilidad: $243.706.135.",
+    "accion": "Proteger cobertura logística y probar campañas incrementales en otras regiones.",
+    "seguimiento": "Ventas y utilidad por región"
+  },
+  {
+    "hallazgo": "Online es el mayor canal por ventas.",
+    "evidencia": "Ventas: $967.857.650; margen: 28,4%.",
+    "accion": "Comparar costo comercial y adquisición antes de ampliar inversión.",
+    "seguimiento": "Margen y ventas por canal"
+  },
+  {
+    "hallazgo": "El mayor descenso mensual ocurrió en 2025-01.",
+    "evidencia": "Variación frente al mes anterior: -32,2%; ventas: $78.871.790.",
+    "accion": "Investigar mezcla de productos, demanda y calendario promocional.",
+    "seguimiento": "Crecimiento mensual de ventas"
+  },
+  {
+    "hallazgo": "Los descuentos altos se asocian con un margen distinto al de ventas sin descuento.",
+    "evidencia": "Margen sin descuento: 33,0%; con descuento >20%: 4,8%.",
+    "accion": "Probar promociones con grupo de control; esta comparación no demuestra causalidad.",
+    "seguimiento": "Margen por rango de descuento"
+  }
+]
