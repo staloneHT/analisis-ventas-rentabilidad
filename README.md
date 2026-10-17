@@ -1,5 +1,7 @@
 # Análisis de Ventas y Rentabilidad
 
+**Repositorio público:** [github.com/staloneHT/analisis-ventas-rentabilidad](https://github.com/staloneHT/analisis-ventas-rentabilidad)
+
 **Business Sales Analytics · Python · Chile · 2024–2025**
 
 Proyecto de portafolio para analizar ventas, utilidad bruta y oportunidades comerciales de un retailer multicanal **simulado**. Incluye un generador reproducible de transacciones, limpieza auditable, KPIs financieros, análisis exploratorio, diez gráficos, notebook ejecutable y pruebas automatizadas. Los datos no representan una empresa real ni experiencia laboral remunerada.
@@ -110,4 +112,4 @@ Las recomendaciones cuantificadas están en el reporte ejecutivo. Antes de aplic
 
 ## Publicación
 
-El proyecto está preparado para GitHub, pero no incluye un enlace inventado ni se ha publicado automáticamente. Inicialice Git dentro de esta carpeta, revise los archivos y configure su propio remoto cuando decida publicarlo.
+Publicado en GitHub como repositorio público. La rama principal es `main`.
